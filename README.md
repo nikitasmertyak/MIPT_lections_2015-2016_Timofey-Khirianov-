@@ -1,2 +1,2 @@
-# MIPT_lections_2015-2016_Timofey-Khirianov-
+# MIPT_lections_2015-2016_Timofey-Khirianov
 Код с лекций по информатике ФМХФ МФТИ 2015-2016 год, лектор Хирьянов Т.Ф.
